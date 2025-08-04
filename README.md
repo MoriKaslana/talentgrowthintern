@@ -167,3 +167,6 @@ This project is built for educational purposes using the TMDB API. Please refer 
 ## Support
 
 For issues or questions, please open an issue in the GitHub repository or contact the development team.
+
+## Deployment Link
+https://talentgrowthintern.vercel.app/ 
